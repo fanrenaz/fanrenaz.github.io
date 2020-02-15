@@ -1,2 +1,2 @@
 # fanrenaz.github.io
-Just my own homepage
+My own homepage
